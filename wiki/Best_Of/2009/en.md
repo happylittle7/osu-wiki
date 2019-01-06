@@ -1,16 +1,16 @@
 # 2009
 
-_Main page: [Best Of](/wiki/Best_Of "Best Of")_
+_主條目: [Best Of](/wiki/Best_Of "Best Of")_
 
 ![Best of 2009 results announced by peppy](2009results.png "Best of 2009 results announced by peppy")
 
-- [Results](https://osu.ppy.sh/forum/t/22162)
-- [Ranking Chart](https://osu.ppy.sh/p/chart?ch=best2009)
-- Download (Mediafire):
+- [成績](https://osu.ppy.sh/forum/t/22162)
+- [排名表](https://osu.ppy.sh/p/chart?ch=best2009)
+- 下載 (Mediafire):
   - [Part 1](https://www.mediafire.com/?plr6t9co71818fl)
   - [Part 2](https://www.mediafire.com/?d1bi0b447zrb70r)
 
-|Placing|Votes|Beatmap|
+|排名|票數|Beatmap|
 |:---:|:---:|:---|
 |1|374| [Queen - Don't Stop Me Now (m980)](https://osu.ppy.sh/s/5381)|
 |2|308| [Yoko Hikasa - Don't Say "Lazy" (Dangaard)](https://osu.ppy.sh/s/6257)|
